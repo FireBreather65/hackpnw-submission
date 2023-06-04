@@ -6,4 +6,4 @@ This is a fully responsive website that includes specially styled links, a thoug
 
 The below video/gif demonstrates some of our project's features!
 
-![Project Features](https://github.com/FireBreather65/hackpnw-submissions/blob/main/Preview/videoplayback.mp4)
+![Project Features](https://drive.google.com/file/d/175wyMON-PUcIW2DjvS-4_2yW7sOdxqMZ/view?usp=drive_link)
