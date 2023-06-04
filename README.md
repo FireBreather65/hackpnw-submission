@@ -4,5 +4,6 @@ We built this website to bring to light the dangers of water pollution, specific
 
 This is a fully responsive website that includes specially styled links, a thoughtfully chosen color scheme, and relevant typography. The website was coded using only HTML and CSS.
 
-Below is a demo video of the site's features:
+The below video/gif demonstrates some of our project's features!
 
+![Project Features](https://github.com/FireBreather65/hackpnw-submissions/blob/main/Preview/videoplayback.mp4)
